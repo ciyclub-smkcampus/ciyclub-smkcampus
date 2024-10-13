@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<head>
+    <title>Gamer website</title>
+</head>
+<body>
+<main>
+  <h1>Gamer website</h1>
+  <h1>Top accessories that gamer have.</h1>
+        <img src="https://th.bing.com/th/id/OIP.LxvNexJGupMtTcimaWWHEgAAAA?rs=1&pid=ImgDetMain">
+        <p>The Best Gaming Accessories for 2024
+<ol>       
+ <li>   SteelSeries Arctis Nova Pro Wireless Best Gaming Headset 10 Most Customizable ...</li>
+   <li> HyperX QuadCast S Best Gaming Microphone HyperX QuadCast S USB Microphone 22 ...</li>
+    <li>Secretlab Titan Evo series Best Gaming Chair 9 Secretlab Titan Evo series ...</li>
+    <li>Cooler Master GD160 Best Gaming Desk Cooler Master GD160 18 ...</li>
+    <li>Asus ROG Keris II Ace Best Gaming Mouse Asus ROG Keris II Ace 0 ...</li>
+  <section>
+<h2>Gaming accessories photos</h2>
+<P>See more<a target="_blank" href="https://shopee.co.th/search?keyword=gamer%20accessories">gaming accessories</a>in our website</P>
+<a href="https://shopee.co.th/Fantech-Gaming-Keyboard-K511-Thai-by-Banana-IT-i.22507473.1205363001">
+    <img src="https://th.bing.com/th/id/OIP.lYTsmdv0Qdb8rQeEo8wQ5gHaHa?rs=1&pid=ImgDetMain"></a>
+   <fieldset>
+    <legend>Did you play Free Fire?</legend>
+    <label><input id="Yes" type="radio" name="Yes-No" value="Yes" checked> Yes</label>
+    <label><input id="No" type="radio" name="Yes-No" value="No"> No</label>
+   </fieldset>
+   <fieldset>
+    <h1>Quiz</h1>
+    <legend>What's your favorite game?</legend>
+    <input id="Free fire" type="checkbox" name="game" value="Free fire" checked> <label for="Free fire">Free fire</label>
+    <input id="PUBG" type="checkbox" name="game" value="PUBG"> <label for="PUBG">PUBG</label>
+   <input id="Genshin impact" type="checkbox" name="game" value="Genshin impact"> <label for="Genshin impact">Genshin impact</label>
+   <input id="Sausage man" type="checkbox" name-="game" value="Sausage man"> <label for="Sausage man">Sauage man</label>
+   <!DOCTYPE html>
+<head>
+    <title>Gamer website</title>
+</head>
+<body>
+<main>
+  <h1>Gamer website</h1>
+  <h1>Top accessories that gamer have.</h1>
+        <img src="https://th.bing.com/th/id/OIP.LxvNexJGupMtTcimaWWHEgAAAA?rs=1&pid=ImgDetMain">
+        <p>The Best Gaming Accessories for 2024
+<ol>       
+ <li>   SteelSeries Arctis Nova Pro Wireless Best Gaming Headset 10 Most Customizable ...</li>
+   <li> HyperX QuadCast S Best Gaming Microphone HyperX QuadCast S USB Microphone 22 ...</li>
+    <li>Secretlab Titan Evo series Best Gaming Chair 9 Secretlab Titan Evo series ...</li>
+    <li>Cooler Master GD160 Best Gaming Desk Cooler Master GD160 18 ...</li>
+    <li>Asus ROG Keris II Ace Best Gaming Mouse Asus ROG Keris II Ace 0 ...</li>
+  <section>
+<h2>Gaming accessories photos</h2>
+<P>See more<a target="_blank" href="https://shopee.co.th/search?keyword=gamer%20accessories">gaming accessories</a>in our website</P>
+<a href="https://shopee.co.th/Fantech-Gaming-Keyboard-K511-Thai-by-Banana-IT-i.22507473.1205363001">
+    <img src="https://th.bing.com/th/id/OIP.lYTsmdv0Qdb8rQeEo8wQ5gHaHa?rs=1&pid=ImgDetMain"></a>
+   <fieldset>
+    <legend>Did you play Free Fire?</legend>
+    <label><input id="Yes" type="radio" name="Yes-No" value="Yes" checked> Yes</label>
+    <label><input id="No" type="radio" name="Yes-No" value="No"> No</label>
+   </fieldset>
+   <fieldset>
+    <h1>Quiz</h1>
+    <legend>What's your favorite game?</legend>
+    <input id="Free fire" type="checkbox" name="game" value="Free fire" checked> <label for="Free fire">Free fire</label>
+    <input id="PUBG" type="checkbox" name="game" value="PUBG"> <label for="PUBG">PUBG</label>
+   <input id="Genshin impact" type="checkbox" name="game" value="Genshin impact"> <label for="Genshin impact">Genshin impact</label>
+   <input id="Sausage man" type="checkbox" name-="game" value="Sausage man"> <label for="Sausage man">Sauage man</label>
+   
+   
+  </fieldset>
+  </section>
+</main>
+</body>
+</html>
+   
+   
+  </fieldset>
+  </section>
+</main>
+</body>
+</html>
