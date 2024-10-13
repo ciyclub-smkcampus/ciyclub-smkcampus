@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+.food{
+    width:100px;
+    height:100px;
+}
+
+
+</style>
+<body>
+   <h1>Everything about food</h1> 
+    <p>every peopple eat food</p>
+    <img src="https://www.cnet.com/a/img/resize/36e8e8fe542ad9af413eb03f3fbd1d0e2322f0b2/hub/2023/02/03/afedd3ee-671d-4189-bf39-4f312248fb27/gettyimages-1042132904.jpg?auto=webp&fit=crop&height=1200&width=1200" class="food"/>
+<!--paragraph, image , a href ="" , label / input -->
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpQ3ykAXYPab89JrUsr13ddu_KhEsvehwSBA&s"/>
+    <p>every body have their favourite food.....</p>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9Z5RsgGEzrJ8P-cGLE-oifoLp6BuQ7DXM1A&s"/>
+    <img src="https://canarywharf.com/wp-content/uploads/2024/03/burger-king3.jpg" width="195px" height="195px">
+
+<p><a href="https://en.wikipedia.org/wiki/Food">Click here</a></p>
+<p><a href="https://en.wikipedia.org/wiki/McDonald%27s">about fastfood biggest chain</a></p>
+<p>some people eat fast food. which fastfood chain do you eat?</p>
+<label for="Mc Donalds">
+<input type="checkbox" name="Mc Donalds">Mc Donalds
+</label>
+<label for="chick fil A">
+<input type="checkbox" name="chick fil A">chick fil A
+
+</label>
+<p>do u eat fast food restaraunts?</p>
+<label for="Yess">
+    <input type="checkbox" name="Yess">Yess
+
+</label>
+<label for="No!">
+    <input type="checkbox" name="No!">No!
+
+</label>
+<ol>
+    <li>Pizza</li>
+    <li>Frenchfries</li>
+    <li>burger</li>
+</ol>
+
+<ul>
+    <li>nuggets</li>
+    <li>Ramen</li>
+</ul>
+
+</body>
+</body>
+</html>
